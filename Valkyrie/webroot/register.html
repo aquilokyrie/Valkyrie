@@ -1,0 +1,140 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>注册</title>
+<script type="text/javascript">
+	var szUserID,szPassWord,bSex,dLike,szMobile,szTel,szEmail,szBorn;
+	function getinfo(){
+		szUserID = document.reg.ID.value;
+		szPassWord = document.reg.password.value;
+		szRePassWord = document.reg.repassword.value;
+		bSex = document.reg.sex.value,
+		dLike = document.reg.like.value,
+		szMobile,
+		szTel,
+		szEmail,
+		szBorn
+		}
+	function check(){
+		if(document.reg.ID.value == "") {alert("用户名不能为空!");return false;}
+		if(document.reg.password.value == "") {alert("密码不能为空！");return false;}
+		if(document.reg.password.value != document.reg.repassword.value) {alert("两次密码输入不一致！"); return false;}
+		if(document.reg.email.value == "") {alert("邮箱不能为空!");return false;}
+		if( !/^\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$/.test(document.reg.email.value)) {alert("邮箱格式不正确！"); return false;}
+		alert("注册成功！");
+		}
+	function callback(){
+		
+		}
+</script>
+</head>
+
+<body>
+	<form name="reg">
+    	<table align="center" cellpadding="12" cellspacing="8" border="1">
+        	<tr align="center">
+            	<td>用户名：</td>
+                <td><input type="text" name="ID"><font color="#FF0000" size="+2">*</font></td>
+            </tr>
+            <tr align="center">
+            	<td>密码：</td>
+                <td><input type="password" name="password"><font color="#FF0000" size="+2">*</font></td>
+            </tr>
+            <tr align="center">
+            	<td>确认密码：</td>
+                <td><input type="password" name="repassword"><font color="#FF0000" size="+2">*</font></td>
+            </tr>
+            <tr align="center">
+            	<td>性别：</td>
+                <td>男：<input type="radio" name="sex" value="1" checked="checked">女：<input type="radio" name="sex" value="0"></td>
+            </tr>
+            <tr align="center">
+            	<td>爱好：</td>
+                <td>
+                	<input type="checkbox" name="like" id="1" value="10000" id=01>旅游
+                	<input type="checkbox" name="like" id="2" value="1000" id=02>看书
+                    <input type="checkbox" name="like" id="3" value="100" id=03>篮球
+                    <input type="checkbox" name="like" id="4" value="10" id=04>散步
+                    <input type="checkbox" name="like" id="5" value="1" id=05>其他
+                </td>
+            </tr>
+            <tr align="center">
+            	<td>手机：</td>
+                <td><input type="tel" size="11" name="mob"></td>
+            </tr>
+            <tr align="center">
+            	<td>固话：</td>
+                <td><input type="text" size="3" name="tel">--<input type="text" size="8"></td>
+            </tr>
+            <tr align="center">
+            	<td>电子邮箱：</td>
+                <td><textarea name="email" cols="25" rows="1"></textarea><font color="#FF0000" size="+2">*</font></td>
+            </tr>
+            <tr align="center">
+            	<td>出生日期：</td>
+                <td><select name="year">
+                		<option value="1" select>1988
+                        <option value="2" select>1989
+                        <option value="3" select>1990
+                        <option value="4" select>1991
+                        <option value="5" select>1992
+                        <option value="6" select>1993
+                    </select>年
+                    <select name="month">
+                		<option value="1" select>01
+                        <option value="2" select>02
+                        <option value="3" select>03
+                        <option value="4" select>04
+                        <option value="5" select>05
+                        <option value="6" select>06
+                        <option value="7" select>07
+                        <option value="8" select>08
+                        <option value="9" select>09
+                        <option value="10" select>10
+                        <option value="11" select>11
+                        <option value="12" select>12
+                    </select>月
+                    <select name="day">
+                		<option value="1" select>1
+                        <option value="2" select>2
+                        <option value="3" select>3
+                        <option value="4" select>4
+                        <option value="5" select>5
+                        <option value="6" select>6
+                        <option value="7" select>7
+                        <option value="8" select>8
+                        <option value="9" select>9
+                        <option value="10" select>10
+                        <option value="11" select>11
+                        <option value="12" select>12
+                        <option value="13" select>13
+                        <option value="14" select>14
+                        <option value="15" select>15
+                        <option value="16" select>16
+                        <option value="17" select>17
+                        <option value="18" select>18
+                        <option value="19" select>19
+                        <option value="20" select>20
+                        <option value="21" select>21
+                        <option value="22" select>22
+                        <option value="23" select>23
+                        <option value="24" select>24
+                        <option value="25" select>25
+                        <option value="26" select>26
+                        <option value="27" select>27
+                        <option value="28" select>28
+                        <option value="29" select>29
+                        <option value="30" select>30
+                        <option value="31" select>31
+                    </select>日
+                </td>
+            </tr>
+        </table>
+        <center>
+        	<br/>
+            <input type="submit" value="提交" onClick="check()">
+            <input type="reset" value="重置">
+        </center>
+    </form>
+</body>
+</html>

@@ -1,0 +1,202 @@
+INFO:[2014-06-20 13:48:25:827 下午] 读取到配置:webroot目录=F:\Dropbox\Base\Valkyrie\webroot
+INFO:[2014-06-20 13:48:25:958 下午] 读取到配置:HTTP协议监听端口=2000
+INFO:[2014-06-20 13:48:25:959 下午] 读取到配置:缓冲区最大日志数量=100
+INFO:[2014-06-20 13:48:26:092 下午] 服务器Socket启动
+INFO:[2014-06-20 13:48:26:093 下午] 服务器启动监听ServerSocket[addr=0.0.0.0/0.0.0.0,port=0,localport=2000]
+INFO:[2014-06-20 13:48:51:406 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20636,localport=2000]
+INFO:[2014-06-20 13:48:51:409 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20637,localport=2000]
+INFO:[2014-06-20 13:48:51:410 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20638,localport=2000]
+INFO:[2014-06-20 13:48:51:410 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20639,localport=2000]
+INFO:[2014-06-20 13:48:51:411 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20640,localport=2000]
+INFO:[2014-06-20 13:48:51:412 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20641,localport=2000]
+INFO:[2014-06-20 13:48:51:633 下午] HTTP请求字符串:GET /index.html HTTP/1.1
+INFO:[2014-06-20 13:48:51:637 下午] 上一个连接请求文件：/index.html
+INFO:[2014-06-20 13:48:51:706 下午] 文件/index.html发送完毕
+ERROR:[2014-06-20 13:49:01:408 下午] 客户端未发送具体HTTP请求信息,连接将关闭
+ERROR:[2014-06-20 13:49:01:408 下午] 客户端未发送具体HTTP请求信息,连接将关闭
+ERROR:[2014-06-20 13:49:01:409 下午] 客户端未发送具体HTTP请求信息,连接将关闭
+ERROR:[2014-06-20 13:49:01:409 下午] 客户端未发送具体HTTP请求信息,连接将关闭
+ERROR:[2014-06-20 13:49:01:410 下午] 客户端未发送具体HTTP请求信息,连接将关闭
+INFO:[2014-06-20 13:49:20:459 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20883,localport=2000]
+INFO:[2014-06-20 13:49:20:463 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20884,localport=2000]
+INFO:[2014-06-20 13:49:20:464 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20885,localport=2000]
+INFO:[2014-06-20 13:49:20:465 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20886,localport=2000]
+INFO:[2014-06-20 13:49:20:467 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20887,localport=2000]
+INFO:[2014-06-20 13:49:20:468 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20888,localport=2000]
+INFO:[2014-06-20 13:49:20:744 下午] HTTP请求字符串:GET /baidu.htm HTTP/1.1
+INFO:[2014-06-20 13:49:20:745 下午] 上一个连接请求文件：/baidu.htm
+INFO:[2014-06-20 13:49:21:137 下午] 文件/baidu.htm发送完毕
+INFO:[2014-06-20 13:49:21:391 下午] HTTP请求字符串:GET /baidu_files/super_min_99bf00e3.css HTTP/1.1
+INFO:[2014-06-20 13:49:21:391 下午] 上一个连接请求文件：/baidu_files/super_min_99bf00e3.css
+INFO:[2014-06-20 13:49:21:394 下午] 文件/baidu_files/super_min_99bf00e3.css发送完毕
+INFO:[2014-06-20 13:49:21:428 下午] HTTP请求字符串:GET /baidu_files/nav_min_9613fa2d.css HTTP/1.1
+INFO:[2014-06-20 13:49:21:429 下午] 上一个连接请求文件：/baidu_files/nav_min_9613fa2d.css
+INFO:[2014-06-20 13:49:21:431 下午] 文件/baidu_files/nav_min_9613fa2d.css发送完毕
+INFO:[2014-06-20 13:49:21:639 下午] HTTP请求字符串:GET /baidu_files/baidu_sylogo1.gif HTTP/1.1
+INFO:[2014-06-20 13:49:21:640 下午] 上一个连接请求文件：/baidu_files/baidu_sylogo1.gif
+INFO:[2014-06-20 13:49:21:641 下午] 文件/baidu_files/baidu_sylogo1.gif发送完毕
+INFO:[2014-06-20 13:49:21:664 下午] HTTP请求字符串:GET /baidu_files/81392.png HTTP/1.1
+INFO:[2014-06-20 13:49:21:665 下午] 上一个连接请求文件：/baidu_files/81392.png
+INFO:[2014-06-20 13:49:21:691 下午] HTTP请求字符串:GET /baidu_files/8510.png HTTP/1.1
+INFO:[2014-06-20 13:49:21:691 下午] 上一个连接请求文件：/baidu_files/8510.png
+INFO:[2014-06-20 13:49:21:721 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20889,localport=2000]
+INFO:[2014-06-20 13:49:21:723 下午] HTTP请求字符串:GET /baidu_files/80802.png HTTP/1.1
+INFO:[2014-06-20 13:49:21:724 下午] 上一个连接请求文件：/baidu_files/80802.png
+INFO:[2014-06-20 13:49:21:726 下午] 文件/baidu_files/81392.png发送完毕
+INFO:[2014-06-20 13:49:21:753 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20890,localport=2000]
+INFO:[2014-06-20 13:49:21:754 下午] HTTP请求字符串:GET /baidu_files/80344.png HTTP/1.1
+INFO:[2014-06-20 13:49:21:755 下午] 上一个连接请求文件：/baidu_files/80344.png
+INFO:[2014-06-20 13:49:21:779 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20891,localport=2000]
+INFO:[2014-06-20 13:49:21:780 下午] HTTP请求字符串:GET /baidu_files/2556.png HTTP/1.1
+INFO:[2014-06-20 13:49:21:781 下午] 上一个连接请求文件：/baidu_files/2556.png
+INFO:[2014-06-20 13:49:21:813 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20892,localport=2000]
+INFO:[2014-06-20 13:49:21:821 下午] 文件/baidu_files/80802.png发送完毕
+INFO:[2014-06-20 13:49:21:824 下午] HTTP请求字符串:GET /baidu_files/91284.png HTTP/1.1
+INFO:[2014-06-20 13:49:21:825 下午] 上一个连接请求文件：/baidu_files/91284.png
+INFO:[2014-06-20 13:49:21:854 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20893,localport=2000]
+INFO:[2014-06-20 13:49:21:870 下午] 文件/baidu_files/80344.png发送完毕
+INFO:[2014-06-20 13:49:21:874 下午] HTTP请求字符串:GET /baidu_files/1.png HTTP/1.1
+INFO:[2014-06-20 13:49:21:875 下午] 上一个连接请求文件：/baidu_files/1.png
+INFO:[2014-06-20 13:49:21:877 下午] 文件/baidu_files/2556.png发送完毕
+INFO:[2014-06-20 13:49:21:880 下午] 文件/baidu_files/8510.png发送完毕
+INFO:[2014-06-20 13:49:21:910 下午] 文件/baidu_files/91284.png发送完毕
+INFO:[2014-06-20 13:49:21:921 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20894,localport=2000]
+INFO:[2014-06-20 13:49:21:930 下午] HTTP请求字符串:GET /baidu_files/6.png HTTP/1.1
+INFO:[2014-06-20 13:49:21:932 下午] 上一个连接请求文件：/baidu_files/6.png
+INFO:[2014-06-20 13:49:21:939 下午] 文件/baidu_files/6.png发送完毕
+INFO:[2014-06-20 13:49:21:957 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20895,localport=2000]
+INFO:[2014-06-20 13:49:21:972 下午] 文件/baidu_files/1.png发送完毕
+INFO:[2014-06-20 13:49:21:983 下午] HTTP请求字符串:GET /baidu_files/3.png HTTP/1.1
+INFO:[2014-06-20 13:49:21:983 下午] 上一个连接请求文件：/baidu_files/3.png
+INFO:[2014-06-20 13:49:21:999 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20896,localport=2000]
+INFO:[2014-06-20 13:49:22:021 下午] HTTP请求字符串:GET /baidu_files/9.png HTTP/1.1
+INFO:[2014-06-20 13:49:22:022 下午] 上一个连接请求文件：/baidu_files/9.png
+INFO:[2014-06-20 13:49:22:033 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20897,localport=2000]
+INFO:[2014-06-20 13:49:22:036 下午] HTTP请求字符串:GET /baidu_files/4.png HTTP/1.1
+INFO:[2014-06-20 13:49:22:036 下午] 上一个连接请求文件：/baidu_files/4.png
+INFO:[2014-06-20 13:49:22:064 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20898,localport=2000]
+INFO:[2014-06-20 13:49:22:069 下午] HTTP请求字符串:GET /baidu_files/8.png HTTP/1.1
+INFO:[2014-06-20 13:49:22:070 下午] 上一个连接请求文件：/baidu_files/8.png
+INFO:[2014-06-20 13:49:22:075 下午] 文件/baidu_files/8.png发送完毕
+INFO:[2014-06-20 13:49:22:105 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20899,localport=2000]
+INFO:[2014-06-20 13:49:22:124 下午] 文件/baidu_files/3.png发送完毕
+INFO:[2014-06-20 13:49:22:128 下午] HTTP请求字符串:GET /baidu_files/12.png HTTP/1.1
+INFO:[2014-06-20 13:49:22:129 下午] 上一个连接请求文件：/baidu_files/12.png
+INFO:[2014-06-20 13:49:22:132 下午] 文件/baidu_files/12.png发送完毕
+INFO:[2014-06-20 13:49:22:137 下午] 文件/baidu_files/4.png发送完毕
+INFO:[2014-06-20 13:49:22:137 下午] 文件/baidu_files/9.png发送完毕
+INFO:[2014-06-20 13:49:22:160 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20900,localport=2000]
+INFO:[2014-06-20 13:49:22:162 下午] HTTP请求字符串:GET /baidu_files/7.png HTTP/1.1
+INFO:[2014-06-20 13:49:22:162 下午] 上一个连接请求文件：/baidu_files/7.png
+INFO:[2014-06-20 13:49:22:163 下午] 文件/baidu_files/7.png发送完毕
+INFO:[2014-06-20 13:49:22:196 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20901,localport=2000]
+INFO:[2014-06-20 13:49:22:197 下午] HTTP请求字符串:GET /baidu_files/16.png HTTP/1.1
+INFO:[2014-06-20 13:49:22:198 下午] 上一个连接请求文件：/baidu_files/16.png
+INFO:[2014-06-20 13:49:22:199 下午] 文件/baidu_files/16.png发送完毕
+INFO:[2014-06-20 13:49:22:226 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20902,localport=2000]
+INFO:[2014-06-20 13:49:22:228 下午] HTTP请求字符串:GET /baidu_files/27.png HTTP/1.1
+INFO:[2014-06-20 13:49:22:228 下午] 上一个连接请求文件：/baidu_files/27.png
+INFO:[2014-06-20 13:49:22:229 下午] 文件/baidu_files/27.png发送完毕
+INFO:[2014-06-20 13:49:22:262 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20903,localport=2000]
+INFO:[2014-06-20 13:49:22:262 下午] 将缓冲区中的日志填写到硬盘
+INFO:[2014-06-20 13:49:22:307 下午] HTTP请求字符串:GET /baidu_files/15.png HTTP/1.1
+INFO:[2014-06-20 13:49:22:307 下午] 上一个连接请求文件：/baidu_files/15.png
+INFO:[2014-06-20 13:49:22:310 下午] 文件/baidu_files/15.png发送完毕
+INFO:[2014-06-20 13:49:22:343 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20904,localport=2000]
+INFO:[2014-06-20 13:49:22:348 下午] HTTP请求字符串:GET /baidu_files/20.png HTTP/1.1
+INFO:[2014-06-20 13:49:22:349 下午] 上一个连接请求文件：/baidu_files/20.png
+INFO:[2014-06-20 13:49:22:352 下午] 文件/baidu_files/20.png发送完毕
+INFO:[2014-06-20 13:49:22:376 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20905,localport=2000]
+INFO:[2014-06-20 13:49:22:388 下午] HTTP请求字符串:GET /baidu_files/28.png HTTP/1.1
+INFO:[2014-06-20 13:49:22:389 下午] 上一个连接请求文件：/baidu_files/28.png
+INFO:[2014-06-20 13:49:22:392 下午] 文件/baidu_files/28.png发送完毕
+INFO:[2014-06-20 13:49:22:414 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20906,localport=2000]
+INFO:[2014-06-20 13:49:22:437 下午] HTTP请求字符串:GET /baidu_files/21.png HTTP/1.1
+INFO:[2014-06-20 13:49:22:439 下午] 上一个连接请求文件：/baidu_files/21.png
+INFO:[2014-06-20 13:49:22:442 下午] 文件/baidu_files/21.png发送完毕
+INFO:[2014-06-20 13:49:22:455 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20907,localport=2000]
+INFO:[2014-06-20 13:49:22:478 下午] HTTP请求字符串:GET /baidu_files/29.png HTTP/1.1
+INFO:[2014-06-20 13:49:22:479 下午] 上一个连接请求文件：/baidu_files/29.png
+INFO:[2014-06-20 13:49:22:480 下午] 文件/baidu_files/29.png发送完毕
+INFO:[2014-06-20 13:49:22:493 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20908,localport=2000]
+INFO:[2014-06-20 13:49:22:541 下午] HTTP请求字符串:GET /baidu_files/50.png HTTP/1.1
+INFO:[2014-06-20 13:49:22:542 下午] 上一个连接请求文件：/baidu_files/50.png
+INFO:[2014-06-20 13:49:22:549 下午] 文件/baidu_files/50.png发送完毕
+INFO:[2014-06-20 13:49:22:566 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20909,localport=2000]
+INFO:[2014-06-20 13:49:22:638 下午] HTTP请求字符串:GET /baidu_files/25.png HTTP/1.1
+INFO:[2014-06-20 13:49:22:639 下午] 上一个连接请求文件：/baidu_files/25.png
+INFO:[2014-06-20 13:49:22:641 下午] 文件/baidu_files/25.png发送完毕
+INFO:[2014-06-20 13:49:22:645 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20910,localport=2000]
+INFO:[2014-06-20 13:49:22:670 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20911,localport=2000]
+INFO:[2014-06-20 13:49:22:676 下午] HTTP请求字符串:GET /baidu_files/23.png HTTP/1.1
+INFO:[2014-06-20 13:49:22:676 下午] HTTP请求字符串:GET /baidu_files/95eef01f3a292df59c2a80eebe315c6035a8735b.jpg HTTP/1.1
+INFO:[2014-06-20 13:49:22:676 下午] 上一个连接请求文件：/baidu_files/23.png
+INFO:[2014-06-20 13:49:22:677 下午] 上一个连接请求文件：/baidu_files/95eef01f3a292df59c2a80eebe315c6035a8735b.jpg
+INFO:[2014-06-20 13:49:22:679 下午] 文件/baidu_files/23.png发送完毕
+INFO:[2014-06-20 13:49:22:679 下午] 文件/baidu_files/95eef01f3a292df59c2a80eebe315c6035a8735b.jpg发送完毕
+INFO:[2014-06-20 13:49:22:710 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20912,localport=2000]
+INFO:[2014-06-20 13:49:22:711 下午] HTTP请求字符串:GET /baidu_files/77c6a7efce1b9d168ff5b59af1deb48f8c54641e.jpg HTTP/1.1
+INFO:[2014-06-20 13:49:22:712 下午] 上一个连接请求文件：/baidu_files/77c6a7efce1b9d168ff5b59af1deb48f8c54641e.jpg
+INFO:[2014-06-20 13:49:22:714 下午] 文件/baidu_files/77c6a7efce1b9d168ff5b59af1deb48f8c54641e.jpg发送完毕
+INFO:[2014-06-20 13:49:22:743 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20913,localport=2000]
+INFO:[2014-06-20 13:49:22:744 下午] HTTP请求字符串:GET /baidu_files/55e736d12f2eb938f5905c09d7628535e4dd6f4f.jpg HTTP/1.1
+INFO:[2014-06-20 13:49:22:745 下午] 上一个连接请求文件：/baidu_files/55e736d12f2eb938f5905c09d7628535e4dd6f4f.jpg
+INFO:[2014-06-20 13:49:22:747 下午] 文件/baidu_files/55e736d12f2eb938f5905c09d7628535e4dd6f4f.jpg发送完毕
+INFO:[2014-06-20 13:49:22:879 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20914,localport=2000]
+INFO:[2014-06-20 13:49:22:908 下午] HTTP请求字符串:GET /baidu_files/241f95cad1c8a7866f8d6df56509c93d71cf50a1.jpg HTTP/1.1
+INFO:[2014-06-20 13:49:22:909 下午] 上一个连接请求文件：/baidu_files/241f95cad1c8a7866f8d6df56509c93d71cf50a1.jpg
+INFO:[2014-06-20 13:49:22:911 下午] 文件/baidu_files/241f95cad1c8a7866f8d6df56509c93d71cf50a1.jpg发送完毕
+INFO:[2014-06-20 13:49:22:949 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20915,localport=2000]
+INFO:[2014-06-20 13:49:22:955 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20916,localport=2000]
+INFO:[2014-06-20 13:49:22:966 下午] HTTP请求字符串:GET /baidu_files/c83d70cf3bc79f3d5659c0cbb8a1cd11738b2994.jpg HTTP/1.1
+INFO:[2014-06-20 13:49:22:966 下午] HTTP请求字符串:GET /baidu_files/c2fdfc039245d6886fcb965fa6c27d1ed31b247b.jpg HTTP/1.1
+INFO:[2014-06-20 13:49:22:967 下午] 上一个连接请求文件：/baidu_files/c83d70cf3bc79f3d5659c0cbb8a1cd11738b2994.jpg
+INFO:[2014-06-20 13:49:22:967 下午] 上一个连接请求文件：/baidu_files/c2fdfc039245d6886fcb965fa6c27d1ed31b247b.jpg
+INFO:[2014-06-20 13:49:22:968 下午] 文件/baidu_files/c2fdfc039245d6886fcb965fa6c27d1ed31b247b.jpg发送完毕
+INFO:[2014-06-20 13:49:22:969 下午] 文件/baidu_files/c83d70cf3bc79f3d5659c0cbb8a1cd11738b2994.jpg发送完毕
+INFO:[2014-06-20 13:49:22:994 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20917,localport=2000]
+INFO:[2014-06-20 13:49:22:996 下午] HTTP请求字符串:GET /baidu_files/b999a9014c086e067c89b6b100087bf40ad1cb23.jpg HTTP/1.1
+INFO:[2014-06-20 13:49:22:997 下午] 上一个连接请求文件：/baidu_files/b999a9014c086e067c89b6b100087bf40ad1cb23.jpg
+INFO:[2014-06-20 13:49:23:003 下午] 文件/baidu_files/b999a9014c086e067c89b6b100087bf40ad1cb23.jpg发送完毕
+INFO:[2014-06-20 13:49:23:027 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20918,localport=2000]
+INFO:[2014-06-20 13:49:23:028 下午] HTTP请求字符串:GET /baidu_files/37d3d539b6003af39a69539a372ac65c1138b67d.jpg HTTP/1.1
+INFO:[2014-06-20 13:49:23:029 下午] 上一个连接请求文件：/baidu_files/37d3d539b6003af39a69539a372ac65c1138b67d.jpg
+INFO:[2014-06-20 13:49:23:034 下午] 文件/baidu_files/37d3d539b6003af39a69539a372ac65c1138b67d.jpg发送完毕
+INFO:[2014-06-20 13:49:23:067 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20919,localport=2000]
+INFO:[2014-06-20 13:49:23:095 下午] HTTP请求字符串:GET /baidu_files/95eef01f3a292df59c2a80eebe315c6035a8735b(1).jpg HTTP/1.1
+INFO:[2014-06-20 13:49:23:096 下午] 上一个连接请求文件：/baidu_files/95eef01f3a292df59c2a80eebe315c6035a8735b(1).jpg
+INFO:[2014-06-20 13:49:23:098 下午] 文件/baidu_files/95eef01f3a292df59c2a80eebe315c6035a8735b(1).jpg发送完毕
+INFO:[2014-06-20 13:49:23:112 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20920,localport=2000]
+INFO:[2014-06-20 13:49:23:128 下午] HTTP请求字符串:GET /baidu_files/77c6a7efce1b9d168ff5b59af1deb48f8c54641e(1).jpg HTTP/1.1
+INFO:[2014-06-20 13:49:23:129 下午] 上一个连接请求文件：/baidu_files/77c6a7efce1b9d168ff5b59af1deb48f8c54641e(1).jpg
+INFO:[2014-06-20 13:49:23:129 下午] 文件/baidu_files/77c6a7efce1b9d168ff5b59af1deb48f8c54641e(1).jpg发送完毕
+INFO:[2014-06-20 13:49:23:147 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20921,localport=2000]
+INFO:[2014-06-20 13:49:23:176 下午] HTTP请求字符串:GET /baidu_files/55e736d12f2eb938f5905c09d7628535e4dd6f4f(1).jpg HTTP/1.1
+INFO:[2014-06-20 13:49:23:178 下午] 上一个连接请求文件：/baidu_files/55e736d12f2eb938f5905c09d7628535e4dd6f4f(1).jpg
+INFO:[2014-06-20 13:49:23:179 下午] 文件/baidu_files/55e736d12f2eb938f5905c09d7628535e4dd6f4f(1).jpg发送完毕
+INFO:[2014-06-20 13:49:23:189 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20922,localport=2000]
+INFO:[2014-06-20 13:49:23:221 下午] HTTP请求字符串:GET /baidu_files/241f95cad1c8a7866f8d6df56509c93d71cf50a1(1).jpg HTTP/1.1
+INFO:[2014-06-20 13:49:23:222 下午] 上一个连接请求文件：/baidu_files/241f95cad1c8a7866f8d6df56509c93d71cf50a1(1).jpg
+INFO:[2014-06-20 13:49:23:224 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20923,localport=2000]
+INFO:[2014-06-20 13:49:23:224 下午] 文件/baidu_files/241f95cad1c8a7866f8d6df56509c93d71cf50a1(1).jpg发送完毕
+INFO:[2014-06-20 13:49:23:235 下午] HTTP请求字符串:GET /baidu_files/c2fdfc039245d6886fcb965fa6c27d1ed31b247b(1).jpg HTTP/1.1
+INFO:[2014-06-20 13:49:23:235 下午] 上一个连接请求文件：/baidu_files/c2fdfc039245d6886fcb965fa6c27d1ed31b247b(1).jpg
+INFO:[2014-06-20 13:49:23:236 下午] 文件/baidu_files/c2fdfc039245d6886fcb965fa6c27d1ed31b247b(1).jpg发送完毕
+INFO:[2014-06-20 13:49:23:263 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20924,localport=2000]
+INFO:[2014-06-20 13:49:23:273 下午] HTTP请求字符串:GET /baidu_files/c83d70cf3bc79f3d5659c0cbb8a1cd11738b2994(1).jpg HTTP/1.1
+INFO:[2014-06-20 13:49:23:274 下午] 上一个连接请求文件：/baidu_files/c83d70cf3bc79f3d5659c0cbb8a1cd11738b2994(1).jpg
+INFO:[2014-06-20 13:49:23:275 下午] 文件/baidu_files/c83d70cf3bc79f3d5659c0cbb8a1cd11738b2994(1).jpg发送完毕
+INFO:[2014-06-20 13:49:23:296 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20925,localport=2000]
+INFO:[2014-06-20 13:49:23:314 下午] HTTP请求字符串:GET /baidu_files/b999a9014c086e067c89b6b100087bf40ad1cb23(1).jpg HTTP/1.1
+INFO:[2014-06-20 13:49:23:315 下午] 上一个连接请求文件：/baidu_files/b999a9014c086e067c89b6b100087bf40ad1cb23(1).jpg
+INFO:[2014-06-20 13:49:23:317 下午] 文件/baidu_files/b999a9014c086e067c89b6b100087bf40ad1cb23(1).jpg发送完毕
+INFO:[2014-06-20 13:49:23:332 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20926,localport=2000]
+INFO:[2014-06-20 13:49:23:357 下午] HTTP请求字符串:GET /baidu_files/37d3d539b6003af39a69539a372ac65c1138b67d(1).jpg HTTP/1.1
+INFO:[2014-06-20 13:49:23:357 下午] 上一个连接请求文件：/baidu_files/37d3d539b6003af39a69539a372ac65c1138b67d(1).jpg
+INFO:[2014-06-20 13:49:23:361 下午] 文件/baidu_files/37d3d539b6003af39a69539a372ac65c1138b67d(1).jpg发送完毕
+INFO:[2014-06-20 13:49:23:370 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20927,localport=2000]
+INFO:[2014-06-20 13:49:23:373 下午] HTTP请求字符串:GET /baidu_files/baidu_jgylogo3.gif HTTP/1.1
+INFO:[2014-06-20 13:49:23:374 下午] 上一个连接请求文件：/baidu_files/baidu_jgylogo3.gif
+INFO:[2014-06-20 13:49:23:376 下午] 文件/baidu_files/baidu_jgylogo3.gif发送完毕
+INFO:[2014-06-20 13:49:23:400 下午] 收到连接Socket[addr=/0:0:0:0:0:0:0:1,port=20928,localport=2000]
+INFO:[2014-06-20 13:49:23:401 下午] 将缓冲区中的日志填写到硬盘
